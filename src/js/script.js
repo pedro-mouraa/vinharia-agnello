@@ -1,6 +1,4 @@
-document.addEventListener("DOMContentLoaded", () => {
-// Espera a página terminar de carregar o HTML e só depois executa o JS   
-
+setTimeout(() => {
     alert("Seja bem-vindo a Vinharia Agnello");
     // Mensagem de recepção para usuário
 
@@ -18,5 +16,5 @@ document.addEventListener("DOMContentLoaded", () => {
 
     console.log(`\n Nome - ${nomeVinho} \n Tipo - ${tipoVinho} \n Safra - ${safraVinho} \n Quantidade - ${quantVinho} vinhos em estoque`);
     // Exebição de informações armazenadas nas variáveis sobre o vinho
-});
+}, 100);
 
