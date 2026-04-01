@@ -1,4 +1,4 @@
-setTimeout(() => {
+setTimeout(() => { //Feito para iniciar o html antes do JS, para ficar vísivel durante a execução (Feito com o uso de IA)
     alert("Seja bem-vindo a Vinharia Agnello");
     // Mensagem de recepção para usuário
 
