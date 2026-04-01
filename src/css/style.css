@@ -1,0 +1,27 @@
+*{
+    margin:8x;
+    padding:-1px;
+    color:rgb(54, 13, 41);
+}
+#grosso{
+    border: 8px double;
+}
+body{
+    background-color: rgb(255, 236, 224);
+}
+hr{
+    color:rgb(199, 156, 13);
+    border: solid 3px;
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif
+}
+h1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+ul{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
